@@ -7,6 +7,7 @@ Foodies Recipes Project - README Template
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
+1. [Milestones](#Milestones)
 
 ## Overview
 ### Description
@@ -72,7 +73,7 @@ Allow the user to scroll through different recipes of all types of food, then be
 ## Wireframes
 ![](https://i.imgur.com/etNMD5B.jpg)
 
-# Milestones
+## Milestones
 built base app, brought in parse to be able to save username and password. 
 Gif: 
 <img src='https://github.com/FallFinalApplication2021/FoodRecipes101/blob/main/ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
