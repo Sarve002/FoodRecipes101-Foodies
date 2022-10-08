@@ -19,7 +19,7 @@ Allow the user to scroll through different recipes of all types of food, then be
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
+* fill in your required user stories here
 * User can create a new account
 * User can login
 * User can like recipes
