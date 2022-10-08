@@ -72,15 +72,13 @@ Allow the user to scroll through different recipes of all types of food, then be
 ## Wireframes
 ![](https://i.imgur.com/etNMD5B.jpg)
 
-# Milestone 1 
+# Milestones
 built base app, brought in parse to be able to save username and password. 
 Gif: 
 <img src='https://github.com/FallFinalApplication2021/FoodRecipes101/blob/main/ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-# Milestone 2 
 built API, built infinite scroll for main recipe feed, created Refreshed wheel pulldown, and create base recipe page when clicking on a specific recipe. 
 Gif: 
 <img src='https://github.com/FallFinalApplication2021/FoodRecipes101/blob/main/milestone11.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-# Milestone 3
 placed the hearts for the user to begin liking the program, as well as completed the details page so that the user can press a button for the instructions to come up, and have that show as a nicey formatted list for the user.
